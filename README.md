@@ -19,6 +19,10 @@ Tableau
 
 Dashboard Designing
 
+EDA
+
+Python (NumPy, Pandas, Matplotlib, Seaborn)
+
 LINK : https://public.tableau.com/app/profile/pavan.ambare7481/viz/zomatoDataset/ZomatoRestaurantsAnalysis?publish=yes
 
 ![Image Alt text](Z1.png)
