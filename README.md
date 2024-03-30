@@ -13,6 +13,6 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 
 LINK : https://public.tableau.com/app/profile/pavan.ambare7481/viz/zomatoDataset/ZomatoRestaurantsAnalysis?publish=yes
 
-![Image Alt text](/images/img.jpg
+![Image Alt text](Z1.png
 
-![Image Alt text](/images/img.jpg "Optional title"))
+
