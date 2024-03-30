@@ -11,6 +11,14 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 
 4. **Data export:** The cleaned dataset is exported to a CSV file for further analysis and visualization in Tableau.
 
+5. ## Skills & Tools Covered
+
+Business Intelligence
+
+Tableau
+
+Dashboard Designing
+
 LINK : https://public.tableau.com/app/profile/pavan.ambare7481/viz/zomatoDataset/ZomatoRestaurantsAnalysis?publish=yes
 
 ![Image Alt text](Z1.png)
