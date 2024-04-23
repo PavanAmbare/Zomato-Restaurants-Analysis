@@ -1,27 +1,52 @@
-# Zomato-Restaurants-Analysis
 
-# About Dataset
-This dataset is a collection of restaurants that are registered on Zomato in Bengaluru City. In this dataset, we have more than 50000 rows and 17 columns, a fairly large dataset. 
+# Zomato Restaurants Analysis
 
-1. **Importing the dataset:** The dataset is read into a Pandas DataFrame.
+## Project Description
+This project involves analyzing a dataset of restaurants registered on Zomato in Bengaluru City to gain insights into the restaurant industry in the area. The goal is to explore various aspects of the dataset, such as ratings, types of cuisine, cost for two people, and more, to understand trends and patterns in the restaurant business.
 
-2. **Basic analysis:** The head and tail of the DataFrame are displayed to get a quick look at the data. Information about the dataset (e.g., data types, non-null counts) is printed, as well as a summary of the dataset's statistics.
+## Dataset Information
+The dataset contains more than 50,000 rows and 17 columns, including information about restaurants' names, locations, ratings, types of cuisine, cost for two people, and more. It is imported into a Pandas DataFrame for analysis.
 
-3. **Data cleaning:** Redundant columns are dropped, and remaining columns are renamed for clarity. The 'rating' column is cleaned by extracting numeric values, converting them to float, and filling missing values with 0. The 'name_of_restro' column is standardized to lowercase and stripped of additional information. The 'location' column is cleaned by extracting the city name. The 'dish_liked' column is dropped, and missing values in 'restro_type' and 'approx_cost_for_two_people' are filled with the mode and mean, respectively.
+## Data Cleaning
+- Dropped redundant columns
+- Renamed columns for clarity
+- Handled missing values in the 'rating', 'restro_type', and 'approx_cost_for_two_people' columns
 
-4. **Data export:** The cleaned dataset is exported to a CSV file for further analysis and visualization in Tableau.
+## Exploratory Data Analysis (EDA)
+- Basic analysis of the dataset
+- Checked for null values and duplicates
+- Explored relationships between variables
 
-5. ## Skills & Tools Covered
+## Data Visualization
+Data visualization was performed using both Tableau and Python (Matplotlib, Seaborn) to gain insights from the dataset. [Click here to view the Tableau dashboard for visualizing the data.](https://public.tableau.com/app/profile/pavan.ambare7481/viz/zomatoDataset/ZomatoRestaurantsAnalysis?publish=yes)
 
-Business Intelligence
+## Insights
+- Distribution of ratings
+- Percentage of online orders
+- Average rating by location
+- Relationship between rating and average cost for two people
 
-Tableau
+## Conclusion
+The analysis provides valuable insights into the restaurant industry in Bengaluru City. Based on the findings, recommendations can be made to improve the quality of service, increase customer satisfaction, and attract more customers.
 
-Dashboard Designing
+## Data Export
+The cleaned dataset was exported to a CSV file for further analysis and visualization in Tableau.
 
-EDA
+## Skills and Tools
+- Python (NumPy, Pandas)
+- Data Visualization (Matplotlib, Seaborn, Tableau)
+- EDA techniques
 
-Python (NumPy, Pandas, Matplotlib, Seaborn)
+## Future Work
+Future work could include incorporating more datasets to enhance the analysis and refining the current analysis to uncover deeper insights into the restaurant industry.
+
+## Contact Information
+For collaboration or further discussion, feel free to reach out:
+- Email: [pavanambare007@gmail.com]
+- LinkedIn: [http://www.linkedin.com/in/pavan-ambare-542b961a3]
+
+
+
 
 LINK : https://public.tableau.com/app/profile/pavan.ambare7481/viz/zomatoDataset/ZomatoRestaurantsAnalysis?publish=yes
 
