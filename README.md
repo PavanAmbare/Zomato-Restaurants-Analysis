@@ -26,6 +26,14 @@ Data visualization was performed using both Tableau and Python (Matplotlib, Seab
 - Average rating by location
 - Relationship between rating and average cost for two people
 
+## Additional Insights
+
+- **Popular Locations:** Identified the top locations with the highest number of restaurants.
+- **Restaurant Types:** Explored the most common types of restaurants (e.g., cafes, bars, fine dining) in the dataset.
+- **Service Types:** Visualized the percentage of each type of service offered by restaurants (e.g., buffet, delivery, dine-out).
+- **Rating vs. Votes:** Analyzed the relationship between ratings and the number of votes received by restaurants.
+
+
 ## Conclusion
 The analysis provides valuable insights into the restaurant industry in Bengaluru City. Based on the findings, recommendations can be made to improve the quality of service, increase customer satisfaction, and attract more customers.
 
